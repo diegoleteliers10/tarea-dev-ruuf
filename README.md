@@ -37,15 +37,9 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 ## 📝 Tu Solución
 
-<video width="640" height="480" controls>
-  <source src="./assets/panelesRectangulares.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="640" height="480" src="./assets/panelesRectangulares.mp4"></iframe>
 
-<video width="640" height="480" controls>
-  <source src="./assets/panelesTriangulares.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="640" height="480" src="./assets/panelesTriangulares.mp4"></iframe>
 
 ---
 
