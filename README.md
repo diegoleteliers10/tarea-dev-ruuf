@@ -37,15 +37,11 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 ## 📝 Tu Solución
 
-<figure class="video_container">
-  <iframe src="./assets/panelesRectangulares.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+<video src="./assets/panelesRectangulares.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
-<figure class="video_container">
-  <iframe src="./assets/panelesTriangulares.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+<video src="./assets/panelesTriangulares.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 ---
 
