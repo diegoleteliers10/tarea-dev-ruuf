@@ -37,11 +37,11 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 ## 📝 Tu Solución
 
-<video src="./assets/panelesRectangulares.mp4" controls="controls" style="max-width: 100%;">
-</video>
+### Paneles Rectangulares
+![Video de paneles rectangulares](./assets/panelesRectangulares.mp4)
 
-<video src="./assets/panelesTriangulares.mp4" controls="controls" style="max-width: 100%;">
-</video>
+### Paneles Triangulares
+![Video de paneles triangulares](./assets/panelesTriangulares.mp4)
 
 ---
 
