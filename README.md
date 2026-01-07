@@ -15,9 +15,12 @@ El problema a resolver consiste en encontrar la máxima cantidad de rectángulos
 cd typescript
 npm install
 npm start
+npm start-triangle 
 ```
 
-### Opción 2: Solución en Python
+Nota: el npm start-triangle es para correr los codigos del problema opcional.
+
+### Opción 2: Solución en Python (borrada, no tomar en consideracion)
 ```bash
 cd python
 python3 main.py
@@ -72,5 +75,6 @@ De esta manera tomando el primer caso de prueba con techo triangular:
 
 ## 🤔 Supuestos y Decisiones
 
+Se tomo el supuesto de que para el caso opcional se toma unicamente la base y altura del triangulo y no se pide hacer mas calculos que el del area dado que si no, se pediria los dos lados iguales y la base y con eso calcular. Para este caso unicamente se tomo en consideracion la base y la altura para calcular el area y con eso obtener el resultado.
 *[Si tuviste que tomar algún supuesto o decisión de diseño, explícalo aquí]*
 
