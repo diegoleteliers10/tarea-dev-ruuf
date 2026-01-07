@@ -37,9 +37,15 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 ## 📝 Tu Solución
 
-<iframe width="640" height="480" src="./assets/panelesRectangulares.mp4"></iframe>
+<figure class="video_container">
+  <iframe src="./assets/panelesRectangulares.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
-<iframe width="640" height="480" src="./assets/panelesTriangulares.mp4"></iframe>
+<figure class="video_container">
+  <iframe src="./assets/panelesTriangulares.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 ---
 
