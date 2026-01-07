@@ -38,10 +38,10 @@ Tu solución debe pasar los siguientes casos de prueba:
 ## 📝 Tu Solución
 
 ### Paneles Rectangulares
-![Video de paneles rectangulares](/panelesRectangulares.mp4)
+![Video de paneles rectangulares](./public/panelesRectangulares.mp4)
 
 ### Paneles Triangulares
-![Video de paneles triangulares](/panelesTriangulares.mp4)
+![Video de paneles triangulares](./public/panelesTriangulares.mp4)
 
 ---
 
