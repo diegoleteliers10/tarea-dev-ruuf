@@ -15,9 +15,12 @@ El problema a resolver consiste en encontrar la máxima cantidad de rectángulos
 cd typescript
 npm install
 npm start
+npm start-triangle 
 ```
 
-### Opción 2: Solución en Python
+Nota: el npm start-triangle es para correr los codigos del problema opcional.
+
+### Opción 2: Solución en Python (borrada, no tomar en consideracion)
 ```bash
 cd python
 python3 main.py
