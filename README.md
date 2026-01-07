@@ -34,7 +34,15 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 ## 📝 Tu Solución
 
-Deja acá el link a tu video explicando tu solución con tus palabras
+<video width="640" height="480" controls>
+  <source src="./assets/panelesRectangulares.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="640" height="480" controls>
+  <source src="./assets/panelesTriangulares.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
