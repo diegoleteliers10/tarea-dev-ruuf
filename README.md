@@ -45,13 +45,19 @@ Si completaste alguno de los ejercicios bonus, explica tu solución aquí:
 ### Bonus Implementado
 *[Indica cuál bonus implementaste: Opción 1 (techo triangular) o Opción 2 (rectángulos superpuestos)]*
 
-
+El bonus elegido fue: Opción 1 (techo triangular)
 
 
 ### Explicación del Bonus
 *[Explica cómo adaptaste tu algoritmo para resolver el bonus]*
 
+La adaptacion se hizo en primer lugar tomando en cuenta que el triangulo es isoceles por lo que como la cantidad de paneles que caben se basan en el area, se puede calcular el area del triangulo y dividirla por el area del panel para obtener la cantidad de paneles que caben en el techo triangular. 
 
+O sea, el area de un triangulo es (base * altura) / 2, por lo que se calcula el area del triangulo y luego se divide por el area del panel (a*b) para obtener la cantidad de paneles que caben en el techo triangular.
+
+De esta manera tomando el primer caso de prueba con techo triangular:
+
+- Paneles 1x2 y techo triangular 10x5 ⇒ Area del triangulo = (10\*5)/2 = 25. Area del panel = 1*2 = 2. Cantidad de paneles = 25/2 = 12,5. Se aproxima hacia abajo por lo que finalmente ⇒ Caben 12 paneles completos.
 
 
 ---
